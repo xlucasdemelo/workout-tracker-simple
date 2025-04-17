@@ -1,332 +1,247 @@
 [
   {
     "day": "A",
-    "muscleGroup": "Legs",
+    "muscleGroup": "LEGS",
     "exercises": [
       {
-        "exercise": "Elevação de quadril unilateral (solo) - Warmup",
-        "numberOfSeries": "2x25",
-        "rest": "sem descanso",
-        "cadence": null,
-        "method": null
+        "exercise": "CADEIRA ABDUTORA",
+        "numberOfSeries": "20-15-12 + 1x MR",
+        "rest": "60”",
+        "cadence": "3:1:2",
+        "method": "PC + MR na última 4/4/4/4/4/4"
       },
       {
-        "exercise": "Passada livre - Warmup",
-        "numberOfSeries": "1x40",
-        "rest": null,
-        "cadence": null,
-        "method": null
+        "exercise": "CADEIRA FLEXORA",
+        "numberOfSeries": "15-12-10-15",
+        "rest": "90”",
+        "cadence": "3:1:2",
+        "method": "PC + PDC"
       },
       {
-        "exercise": "Cadeira Adutora",
-        "numberOfSeries": "3x15/12/10+Max",
-        "rest": "90s",
-        "cadence": "2:1:2",
-        "method": "PC RP"
+        "exercise": "LEV. TERRA SUMÓ BARRA",
+        "numberOfSeries": "12-10-8 + 1x cluster-set",
+        "rest": "120”",
+        "cadence": "3:1:2 (pausa de 1” no solo)",
+        "method": "CLUSTER-SET na última 4/4/4/4"
       },
       {
-        "exercise": "Cadeira ABdutora",
-        "numberOfSeries": "3x15/12/10+Max",
-        "rest": "90s",
-        "cadence": "3:2",
+        "exercise": "AG. BÚLGARO HT (contralateral)",
+        "numberOfSeries": "1x 12-15  2x 10-12  1x 8-10",
+        "rest": "30” entre os lados e 60” após o 2º lado",
+        "cadence": "3:1:2 (pausa de 1” no solo)",
         "method": "PC"
       },
       {
-        "exercise": "Elevação de Quadril máquina",
-        "numberOfSeries": "3x15/12/10",
-        "rest": "90s",
+        "exercise": "MESA FLEXORA + EXTENSÃO DE QUADRIL MESA ROMANA",
+        "numberOfSeries": "3x 10-12 + 12-15",
+        "rest": "60”",
+        "cadence": "3:1 + 3:2",
+        "method": "BI-SET"
+      },
+      {
+        "exercise": "CADEIRA FLEXORA UNILATERAL",
+        "numberOfSeries": "3x 8-10",
+        "rest": "Sem descanso",
         "cadence": "2:1:2",
-        "method": "PC"
-      },
-      {
-        "exercise": "Mesa Flexora",
-        "numberOfSeries": "3x15/12/10+Max",
-        "rest": "90s",
-        "cadence": "3:2",
-        "method": "Alongamento 30s intra série"
-      },
-      {
-        "exercise": "Hack Machine",
-        "numberOfSeries": "3x15/12/10",
-        "rest": "120s",
-        "cadence": "3:2",
         "method": null
-      },
-      {
-        "exercise": "Leg 45 c band a baixo da linha do joelho",
-        "numberOfSeries": "2x10 a 12",
-        "rest": "90s a 120s",
-        "cadence": "4:1",
-        "method": "MR"
-      },
-      {
-        "exercise": "Panturrilha Sentado 2T",
-        "numberOfSeries": "3x15/12/10+Max",
-        "rest": "90s",
-        "cadence": "2:1:2",
-        "method": "PC RP"
       }
     ]
   },
   {
     "day": "B",
-    "muscleGroup": "Peito + Ombro + Tríceps",
+    "muscleGroup": "MMSS",
     "exercises": [
       {
-        "exercise": "Retração espacular (solo) - Warmup",
-        "numberOfSeries": "2x12 a 15",
-        "rest": null,
-        "cadence": null,
+        "exercise": "PULL DOWN CORDA",
+        "numberOfSeries": "3x 10-12",
+        "rest": "60-75”",
+        "cadence": "3:3",
         "method": null
       },
       {
-        "exercise": "Spider Wall c/ miniband - Warmup",
-        "numberOfSeries": "2x45s",
-        "rest": null,
-        "cadence": null,
+        "exercise": "PUXADA ALTA TRIANGULO",
+        "numberOfSeries": "3x 10-12",
+        "rest": "60-75”",
+        "cadence": "3:2",
         "method": null
       },
       {
-        "exercise": "Desenvolvimento Articulado Neutro",
-        "numberOfSeries": "3x12/10/8",
-        "rest": "90s",
+        "exercise": "REMADA BAIXA UNILATERAL C/ GIRO (N>S)",
+        "numberOfSeries": "3x 12-15",
+        "rest": "60” após 2º lado",
         "cadence": "3:1:2",
-        "method": "PC"
-      },
-      {
-        "exercise": "Supino Inclinado 30º Smith",
-        "numberOfSeries": "3x12/10/8",
-        "rest": "90s",
-        "cadence": "3:2",
-        "method": "PC"
-      },
-      {
-        "exercise": "Crucifixo Inclinado",
-        "numberOfSeries": "3x8 a 10",
-        "rest": "90s",
-        "cadence": "4:1",
         "method": null
       },
       {
-        "exercise": "Supino Declinado c/ Halter",
-        "numberOfSeries": "3x8 a 10",
-        "rest": "90s a 120s",
-        "cadence": "3:2",
-        "method": "Cluster"
-      },
-      {
-        "exercise": "Cross Over + Flexão de braço no suporte",
-        "numberOfSeries": "3x10 a 12 + 12 a 15",
-        "rest": "60s após finalizar o 2º",
-        "cadence": "2:1:2 2:1:2",
+        "exercise": "REMADA CAVALINHO PEG. PRONADA + ELEVAÇÃO LATERAL EM PÉ - HT",
+        "numberOfSeries": "3x 12-15 + 12-15",
+        "rest": "60-75”",
+        "cadence": "2:1:2 + 3:1:2",
         "method": "BI-SET"
       },
       {
-        "exercise": "Paralela Livre",
-        "numberOfSeries": "3x10 a 12",
-        "rest": "60s",
-        "cadence": "4:1 (3:2 na última série)",
-        "method": "MR"
-      },
-      {
-        "exercise": "Elevação Lateral Unilateral Cross",
-        "numberOfSeries": "2x10 a 12",
-        "rest": "90s",
-        "cadence": "2:1:2",
-        "method": "MR"
+        "exercise": "ELEVAÇÃO FRONTAL CORDA + TRÍCEPS FRANCÊS CORDA",
+        "numberOfSeries": "15-12-12 + 12-15",
+        "rest": "60-75”",
+        "cadence": "3:1:2 + 3:2",
+        "method": "BI-SET"
       }
     ]
   },
   {
     "day": "C",
-    "muscleGroup": "Dorsal + Ombro + Trap",
+    "muscleGroup": "GLÚTEOS",
     "exercises": [
       {
-        "exercise": "Elevação T com Halter deitado CONTRA o banco 45º + Barra Graviton - Warmup",
-        "numberOfSeries": "2x12 a 15 + 15 a 20",
-        "rest": null,
-        "cadence": null,
+        "exercise": "CADEIRA ABDUTORA 45",
+        "numberOfSeries": "20-15-12 + 1x MR",
+        "rest": "60”",
+        "cadence": "3:1:2",
+        "method": "PC + MR na última 4/4/4/4/4/4"
+      },
+      {
+        "exercise": "ABDUÇÃO DE QUADRIL CABO POR TRÁS",
+        "numberOfSeries": "15-12-10-15",
+        "rest": "30” entre os lados",
+        "cadence": "3:2",
+        "method": "PC + PDC"
+      },
+      {
+        "exercise": "ELEVAÇÃO DE QUADRIL UNILATERAL MÁQUINA/SMITH",
+        "numberOfSeries": "1x 20",
+        "rest": "60” após 2º lado",
+        "cadence": "2:1:2",
         "method": null
       },
       {
-        "exercise": "Low Row",
-        "numberOfSeries": "3x12/10/8",
-        "rest": "90s",
+        "exercise": "ELEVAÇÃO DE QUADRIL MÁQUINA + BAND",
+        "numberOfSeries": "1x 20",
+        "rest": "90-120”",
         "cadence": "3:1:2",
         "method": "PC"
       },
       {
-        "exercise": "Remada Hammer Neutro",
-        "numberOfSeries": "3x12/10/8",
-        "rest": "90s",
-        "cadence": "3:2",
-        "method": null
-      },
-      {
-        "exercise": "Remada Cavalinho of triangulo",
-        "numberOfSeries": "3x12/10/8",
-        "rest": "90s a 120s",
-        "cadence": "4:1",
-        "method": null
-      },
-      {
-        "exercise": "DY Row Unitat",
-        "numberOfSeries": "3x8 a 10",
-        "rest": "30s entre os lados e 60s após finalizar o 2º",
-        "cadence": "2:1:2",
-        "method": "Cluster"
-      },
-      {
-        "exercise": "Crucifixo Invertido Neutro HT deitado contra o banco 45º + Elevação Lateral SENTADO CONTRA o banco 45º",
-        "numberOfSeries": "3x10 a 12 + 12 a 15",
-        "rest": "60s após finalizar o 2º",
-        "cadence": "3:1 2:1:2",
-        "method": "BI-SET"
-      },
-      {
-        "exercise": "Face Pull Cross",
-        "numberOfSeries": "3x12 a 15",
-        "rest": "60s",
-        "cadence": "3:2",
-        "method": null
-      },
-      {
-        "exercise": "Encolhimento na Remada baixa triangulo",
-        "numberOfSeries": "2x10 a 12",
-        "rest": "90s",
-        "cadence": "2:1:2",
-        "method": "MR"
+        "exercise": "GLÚTEO ESTENDIDO CABO",
+        "numberOfSeries": "15-12-10-8",
+        "rest": "30” entre os lados e 60” após o 2º lado",
+        "cadence": "3:3",
+        "method": "PC"
       }
     ]
   },
   {
     "day": "D",
-    "muscleGroup": "Legs",
+    "muscleGroup": "MMSS",
     "exercises": [
       {
-        "exercise": "Elevação de quadril unilateral (solo) - Warmup",
-        "numberOfSeries": "2x25",
-        "rest": "sem descanso",
-        "cadence": null,
+        "exercise": "ELEV. LATERAL UNILATERAL POLIA BAIXA",
+        "numberOfSeries": "3x 8-12",
+        "rest": "45”",
+        "cadence": "3:2",
         "method": null
       },
       {
-        "exercise": "Passada livre - Warmup",
-        "numberOfSeries": "1x40",
-        "rest": null,
-        "cadence": null,
-        "method": null
+        "exercise": "ELEVAÇÃO LATERAL BANCO 45° - HT",
+        "numberOfSeries": "2x 12-15",
+        "rest": "60”",
+        "cadence": "2:1:2",
+        "method": "PC"
       },
       {
-        "exercise": "Cadeira Flexora",
-        "numberOfSeries": "3x15/12/10",
-        "rest": "60s após finalizar o alongamento",
-        "cadence": "4:1",
-        "method": "PC Alongamento de 30s no final de todas as séries"
+        "exercise": "DESENVOLVIMENTO ARTICULADO",
+        "numberOfSeries": "15-12-10-10",
+        "rest": "90”",
+        "cadence": "3:2",
+        "method": "PC"
       },
       {
-        "exercise": "Cadeira Abdutora 45º c/ step + Glúteo no banco Romano",
-        "numberOfSeries": "3x15 a 20 + 15 a 20",
-        "rest": "75s após finalizar o 2º exercício",
-        "cadence": "3:2 3:2",
+        "exercise": "CRUCIFIXO INVERSO VOADOR + CRUCIFIXO INVERSO CURVADA HT",
+        "numberOfSeries": "3x 12-15",
+        "rest": "60-75”",
+        "cadence": "3:2",
         "method": "BI-SET"
       },
       {
-        "exercise": "Stiff abduzido c/ barra",
-        "numberOfSeries": "3x12/10/8",
-        "rest": "90s",
-        "cadence": "4:1",
-        "method": "PC"
-      },
-      {
-        "exercise": "Cadeira Extensora Unilateral",
-        "numberOfSeries": "3x10 a12",
-        "rest": "s/ descanso",
-        "cadence": "3:1:2",
-        "method": "MR"
-      },
-      {
-        "exercise": "Agachamento Sumo c/ halter em cima do step",
-        "numberOfSeries": "3x12 a 15",
-        "rest": "90s",
-        "cadence": "2:2:2",
-        "method": "A pausa de 2seg é no ponto de maior amplitude"
-      },
-      {
-        "exercise": "Panturrilha Vertical",
-        "numberOfSeries": "3x20/15/12",
-        "rest": "60s",
-        "cadence": "2:1:2",
-        "method": "PC"
+        "exercise": "ROSCA DIRETA BARRA W + TRÍCEPS TESTA BARRA W",
+        "numberOfSeries": "15-12-10 + 12-15",
+        "rest": "60-75”",
+        "cadence": "3:2",
+        "method": "BI-SET"
       }
     ]
   },
   {
     "day": "E",
-    "muscleGroup": "Dorsal + Ombro + Bíceps + Tríceps",
+    "muscleGroup": "LEGS",
     "exercises": [
       {
-        "exercise": "Retração espacular (solo) - Warmup",
-        "numberOfSeries": "2x15 a 20",
-        "rest": null,
-        "cadence": null,
-        "method": null
-      },
-      {
-        "exercise": "Elevação em Y com hater deitado contra o banco 45º - Warmup",
-        "numberOfSeries": "2x12 a 15",
-        "rest": null,
-        "cadence": null,
-        "method": null
-      },
-      {
-        "exercise": "Pulldown c/ corda",
-        "numberOfSeries": "3x15/12/10+Máx",
-        "rest": "60s a 75s",
-        "cadence": "3:2",
-        "method": "PC RP"
-      },
-      {
-        "exercise": "Barra Fixa Pronado",
-        "numberOfSeries": "3x6 a 10",
-        "rest": "90s",
-        "cadence": "3:2",
-        "method": null
-      },
-      {
-        "exercise": "Remada Baixa Pronado aberto",
-        "numberOfSeries": "3x10 a 12",
-        "rest": "90s",
-        "cadence": "3:1:1",
-        "method": "MR"
-      },
-      {
-        "exercise": "Voador invertido Pronado + Elevação Lateral em pé",
-        "numberOfSeries": "3x12 a 15 + 12 a 15",
-        "rest": "60s após finalizar o 2º",
-        "cadence": "2:1:2 2:1:2",
+        "exercise": "CADEIRA ADUTORA + STIFF BARRA",
+        "numberOfSeries": "15-12-10 + 15-12-10",
+        "rest": "90” após 2º exercício",
+        "cadence": "3:1:2 + 3:1:2",
         "method": "BI-SET"
       },
       {
-        "exercise": "Rosca Direta no Cross barra W grande + Tríceps Frances no Cross c/ corda",
-        "numberOfSeries": "3x12 a 15 + 8 a 10",
-        "rest": "60s após finalizar o 2º",
-        "cadence": "2:1:2 4:1",
+        "exercise": "AGACHAMENTO BARRA LIVRE",
+        "numberOfSeries": "15-12-10-15",
+        "rest": "120”",
+        "cadence": "3:1:2 (pausa de 1” no ponto de maior amplitude)",
+        "method": "PC"
+      },
+      {
+        "exercise": "LEG 45°",
+        "numberOfSeries": "2x 10-12 2x 8-10 (+10-12)",
+        "rest": "120”",
+        "cadence": "3:1:2 (pausa de 1” no ponto de maior amplitude)",
+        "method": "PC + BOS na última"
+      },
+      {
+        "exercise": "RECUO SMITH",
+        "numberOfSeries": "2x 10-12 1x 8-10",
+        "rest": "30” entre os lados e 60” após 2 lado",
+        "cadence": "3:1",
+        "method": null
+      },
+      {
+        "exercise": "CADEIRA EXTENSORA UNILATERAL",
+        "numberOfSeries": "2x 10-12",
+        "rest": "Sem descanso",
+        "cadence": "2:1:2",
+        "method": "ALONGAR 30” APÓS TODAS AS SÉRIES"
+      },
+      {
+        "exercise": "CADEIRA EXTENSORA",
+        "numberOfSeries": "15-12-10-15",
+        "rest": "60”",
+        "cadence": "3:2",
+        "method": "PC + PDC ALONGAR 60” APÓS A ÚLTIMA SÉRIE"
+      }
+    ]
+  },
+  {
+    "day": "F",
+    "muscleGroup": "PANTURRILHA + ABD",
+    "exercises": [
+      {
+        "exercise": "PANTURRILHA SENTADA + PANTURRILHA EM PÉ",
+        "numberOfSeries": "4x 12-15 + máx",
+        "rest": "60”",
+        "cadence": "3:3 + 2:1:2",
         "method": "BI-SET"
       },
       {
-        "exercise": "Rosca Scott Unilateral Máquina",
-        "numberOfSeries": "2x10 a 12",
-        "rest": "20s entre os lados",
-        "cadence": "3:1:2",
-        "method": "MR"
+        "exercise": "PRANFRA FRONTAL + PRANCHA LATERAL",
+        "numberOfSeries": "3x 30” (cada)",
+        "rest": "60” após 3°",
+        "cadence": "XXX",
+        "method": "BI-SET"
       },
       {
-        "exercise": "Tríceps Arado c/ corda unilateral",
-        "numberOfSeries": "2x10 a 12",
-        "rest": "20s entre os lados",
-        "cadence": "3:1:2",
-        "method": "MR"
+        "exercise": "ABD SUPRA SOLO – ANILHA NA TESTA",
+        "numberOfSeries": "1x 20 2x 15",
+        "rest": "60”",
+        "cadence": "3:2",
+        "method": null
       }
     ]
   }
