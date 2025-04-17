@@ -1,0 +1,249 @@
+.container {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #f0f5ff 0%, #e6eeff 100%);
+  }
+  
+  .content {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .backButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: white;
+    border-radius: 9999px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-right: 0.75rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .backButton:hover {
+    background-color: #f7fafc;
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #2d3748;
+  }
+  
+  .card {
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+  }
+  
+  .cardHeader {
+    background-color: #3182ce;
+    color: white;
+    padding: 1rem 1.5rem;
+  }
+  
+  .cardTitle {
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  
+  .exerciseList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .exerciseItem {
+    padding: 1rem;
+    border-bottom: 1px solid #edf2f7;
+  }
+  
+  .exerciseItem:last-child {
+    border-bottom: none;
+  }
+  
+  .exerciseButton {
+    width: 100%;
+    text-align: left;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .exerciseName {
+    font-weight: 500;
+    color: #2d3748;
+    margin-bottom: 0.25rem;
+  }
+  
+  .exerciseDetails {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.25rem 1rem;
+    margin-top: 0.25rem;
+  }
+  
+  .detailItem {
+    display: flex;
+    align-items: center;
+    font-size: 0.875rem;
+    color: #718096;
+  }
+  
+  .detailIcon {
+    width: 1rem;
+    height: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ebf4ff;
+    border-radius: 9999px;
+    margin-right: 0.25rem;
+    color: #3182ce;
+    font-size: 0.75rem;
+  }
+  
+  .toggleIcon {
+    padding: 0.25rem;
+    background-color: #ebf4ff;
+    border-radius: 9999px;
+    color: #3182ce;
+  }
+  
+  .exerciseInputs {
+    margin-top: 1rem;
+    padding: 0.75rem;
+    background-color: #f7fafc;
+    border-radius: 8px;
+  }
+  
+  .inputLabel {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #3182ce;
+    margin-bottom: 0.75rem;
+  }
+  
+  .inputsContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  
+  .inputRow {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    padding: 0.5rem;
+    border-radius: 6px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  }
+  
+  .seriesLabel {
+    width: 5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #4a5568;
+  }
+  
+  .loadInput {
+    flex: 1;
+    position: relative;
+  }
+  
+  .inputField {
+    width: 100%;
+    padding: 0.5rem 2rem 0.5rem 0.75rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    font-size: 0.875rem;
+  }
+  
+  .inputField:focus {
+    outline: none;
+    border-color: #3182ce;
+    box-shadow: 0 0 0 1px #3182ce;
+  }
+  
+  .inputUnit {
+    position: absolute;
+    right: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #718096;
+    font-size: 0.875rem;
+  }
+  
+  .saveButton {
+    margin-top: 1rem;
+    width: 100%;
+    background-color: #3182ce;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .saveButton:hover {
+    background-color: #2c5282;
+  }
+  
+  .loading {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #f0f5ff 0%, #e6eeff 100%);
+  }
+  
+  .error {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #f0f5ff 0%, #e6eeff 100%);
+  }
+  
+  .errorTitle {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #e53e3e;
+    margin-bottom: 1rem;
+  }
+  
+  .homeButton {
+    padding: 0.5rem 1rem;
+    background-color: #3182ce;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.2s;
+  }
+  
+  .homeButton:hover {
+    background-color: #2c5282;
+  }
